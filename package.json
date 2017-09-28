@@ -1,0 +1,23 @@
+{
+  "name": "sc-template-node",
+  "version": "0.0.1",
+  "description": "Node 的初始化样板代码",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copochonline/sc-template-node.git"
+  },
+  "keywords": [
+    "node",
+    "boilerplate"
+  ],
+  "author": "yulin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/copochonline/sc-template-node/issues"
+  },
+  "homepage": "https://github.com/copochonline/sc-template-node#readme"
+}
